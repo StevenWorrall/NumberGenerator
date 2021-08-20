@@ -3,7 +3,7 @@ This repo shows a UIViewController presenting a way to generate and count random
 
 There are some helpers located in the Helper file. It contains:
 - Label: This is a generic label so that I can init Labels in one line
-- Button: This is a generic label so that I can init Labels in one line
+- Button: This is a generic button so that I can init buttons in one line
 - Present Alert: This is just a simple extension on UIViewController that alloes me to present an alert in one line. 
 
 The API call is broken out into the ViewController -> API Interactor -> API Repo.
